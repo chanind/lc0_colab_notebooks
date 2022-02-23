@@ -1,4 +1,4 @@
-# Leela Chess Zero Colabs
+# Leela Chess Zero Colab Notebooks
 
 A collection of colab notebooks demonstrating how to perform various development, training, and testing tasks for leela chess zeo (lc0) in Google Colaboratory.
 
